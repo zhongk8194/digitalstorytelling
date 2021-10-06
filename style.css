@@ -1,0 +1,30 @@
+body {
+background-color:cornflowerblue;
+}
+
+h1 {
+color:azure;
+font-family:helvetica;
+border:2px dotted;
+padding:20px;
+}
+
+p {
+color:aliceblue;
+font-family:helvetica;
+font-weight:700;
+}
+
+h3 {
+color:aliceblue;
+font-family:helvetica;
+font-weight:700;
+background-color: dodgerblue;
+}
+
+img {
+border: 5px solid aliceblue;
+width: 25%;
+height: 25%;
+margin-left: 100px;
+}
